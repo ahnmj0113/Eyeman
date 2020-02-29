@@ -2,7 +2,7 @@ import java.applet.Applet;
 import java.awt.*;
 
 /**
- * Created by S10080586 on 5/9/2017.
+ * Created by Minji Ahn on 5/9/2017.
  */
 public class GraphicsProject2 extends Applet{
     Rectangle area, area2;
